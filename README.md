@@ -1,6 +1,6 @@
 # Patching as Translation: The Data and the Metaphor ([ASE'20](https://conf.researchr.org/details/ase-2020/ase-2020-papers/51/Patching-as-Translation-The-Data-and-the-Metaphor))
 
-This repository is for the replication materials and data of ASE'20 paper: "Patching as translation: The Data and the Metaphor". See the [paper]() for details 
+This repository is for the replication materials and data of ASE'20 paper: "Patching as translation: The Data and the Metaphor". See the [paper](https://arxiv.org/abs/2008.10707) for details 
 
 The code is divided into two parts: Models and Analysis. Analysis contains the code for the results in section 4.1 & 4.2. Models contains the code for section 4.3 and section 5. Please refer to the README.md in each directory for instructions.
 
